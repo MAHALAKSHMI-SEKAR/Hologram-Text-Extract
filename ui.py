@@ -50,11 +50,10 @@ class OCRScannerUI:
         )
 
         # ====================================================
-        # UPLOAD BUTTON
+        # UPLOAD BUTTON  
         # ====================================================
         button_frame = tk.Frame(
-            root,
-            bg="#edf1f7"
+            root,bg="#edf1f7"
         )
 
         button_frame.pack(
